@@ -23,6 +23,6 @@ Image Processing using face_recognition package.
   *pip install opencv-python*
   
 
-####  Run index.py file
+  > Run *index.py* file
 
 
