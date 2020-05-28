@@ -21,7 +21,7 @@ class realtimeFaceRecognition:
 
         # save the encodings and the corresponding labels in seperate arrays in the same order
         known_face_encoding = [modi_face_encodings, trump_face_encodings, pradeep_face_encodings]
-        known_face_names  = ["Narendra Modi", "Donald trump", "Pradeep"]
+        known_face_names  = ["Narendra Modi", "Donald trump", "Pradeep Parajuli"]
 
         # initialize the array variable to hold the all face location, encodings and names in the frame
         all_face_location = []

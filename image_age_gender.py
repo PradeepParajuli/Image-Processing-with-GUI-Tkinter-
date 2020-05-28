@@ -6,7 +6,7 @@ class imageAgeGenderDetect:
     def __init__(self,image_path):
         self.image_path = image_path
         # loading the image to detect
-        self.image_to_detect = cv2.imread(self.image_path)             # girl.jpg
+        self.image_to_detect = cv2.imread(self.image_path)
 
 
     def detect(self):
