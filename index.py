@@ -43,8 +43,7 @@ class main_page:
         title = tk.Label(self.window, text="Image Processing", font=("times new roman", 40, "bold"),
                       bg="#BFCEFF", fg="red", bd=10, relief=tk.GROOVE)
         title.place(x=0, y=0, relwidth=1)
-        # -----bottom name------
-        tk.Label(self.window, text="Pradeep Parajuli", font=("times new roman", 10, "bold"),fg="black").place(x=620, y=680)
+
 
     def open_file(self):
         """Open and select image for processing"""

@@ -25,4 +25,3 @@ Image Processing using face_recognition package.
 
   > Run *index.py* file
 
-
